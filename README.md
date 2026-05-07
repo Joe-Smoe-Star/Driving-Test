@@ -35,3 +35,19 @@ DO NOT PRESS - "THANK ME WITH A COFFEE!"
 
 
 THIS IS NOT MY CODE - IT WAS REBUILT AFTER THE FIRST GUY TOOK IT DOWN 
+
+
+
+
+
+
+
+
+
+
+LINKS
+https://www.youtube.com/watch?v=2zl-Vl9iQo0 - Extract
+https://www.youtube.com/watch?v=oswjtLwCUqg - Chrome developer mode
+https://www.youtube.com/watch?v=zWDxnWF6Qo8 - tutorial of the extension 
+
+
